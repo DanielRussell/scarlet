@@ -1,3 +1,10 @@
+ATTENTION!  This fork was created to help migrate a legacy site.  I
+**strongly** recommend you not use it.  I may delete this fork at any
+moment.
+
+-- DanielRussell 2022-07-22
+
+
 What is Scarlet?
 ==
 

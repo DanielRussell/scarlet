@@ -341,7 +341,7 @@ class AdminSite(object):
 
         return TemplateResponse(request, [template], {
             'dashboard': dashboard, 'blocks': dash_blocks,
-            'page': page, 'bundle': self._registry.values()[0],
+            'page': page, 'bundle': self._registry['tags'],
             'form': form
         },)
 
